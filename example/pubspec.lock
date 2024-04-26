@@ -4,10 +4,11 @@ packages:
   amity_sdk:
     dependency: transitive
     description:
-      name: amity_sdk
-      sha256: fd1d111870a9c31ff1743c264f73e0d8f7721c33a1973881e5e0a3da8e8b18fc
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: develop
+      resolved-ref: "0441689a92973687582c3d539fe525cd805661f2"
+      url: "https://github.com/RootSoft/amity_social_cloud_sdk_flutter.git"
+    source: git
     version: "0.38.0"
   amity_sdk_api:
     dependency: transitive
